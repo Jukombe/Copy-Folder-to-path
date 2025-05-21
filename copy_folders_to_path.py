@@ -22,8 +22,8 @@ def copy_folders(destination_path, source_folders):
 # Paths here:
 destination = "/your/path/here"
 sources = [
-    "/your/path/here"
-    "/your/path/here"
+    "/your/path/here",
+    "/your/path/here",
     "....."
 ]
 
